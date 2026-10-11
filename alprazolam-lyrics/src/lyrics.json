@@ -1,4 +1,142 @@
 [
-  { "start": 13.0, "end": 16.0, "text": "Riga di esempio *uno*" },
-  { "start": 16.0, "end": 19.0, "text": "Riga di esempio due" }
+  {
+    "start": 13.5,
+    "end": 17,
+    "text": "*Alprazolam*, la mia vita è tuff, ne verso ancora"
+  },
+  {
+    "start": 17,
+    "end": 20.5,
+    "text": "Ho droppato cinque giorni fa e già ne vuoi ancora"
+  },
+  {
+    "start": 20.5,
+    "end": 24,
+    "text": "Tutto ciò che è regolare a me, giuro, mi annoia"
+  },
+  {
+    "start": 24,
+    "end": 27.5,
+    "text": "Se non alzo il cash, sto in paranoia e verso ancora"
+  },
+  {
+    "start": 27.5,
+    "end": 32.75,
+    "text": "*Alprazolam* (Alprazolam), A-A-A-Alprazolam (Alprazolam)"
+  },
+  {
+    "start": 32.75,
+    "end": 38,
+    "text": "A-A-A-A-Alprazolam (Alprazolam), A-A-A-A-Alprazolam (Alprazolam)"
+  },
+  {
+    "start": 38,
+    "end": 41.5,
+    "text": "*Alprazolam* (Alprazolam)"
+  },
+  {
+    "start": 41.5,
+    "end": 45,
+    "text": "Put my trust in una bitch, ah, non è normale"
+  },
+  {
+    "start": 45,
+    "end": 48.5,
+    "text": "Guardo Milano da un rooftop, Gotham è uguale"
+  },
+  {
+    "start": 48.5,
+    "end": 52,
+    "text": "Lei mi dà la head, so good, bro, sto per nuttare"
+  },
+  {
+    "start": 52,
+    "end": 55.5,
+    "text": "Oggi non so proprio dove andare, sto indeciso tra Céline e Bale'"
+  },
+  {
+    "start": 55.5,
+    "end": 58,
+    "text": "Non cambierò, non potrei mai"
+  },
+  {
+    "start": 58,
+    "end": 61.5,
+    "text": "È da una vita che sto ten toes down e sul grind"
+  },
+  {
+    "start": 61.5,
+    "end": 65,
+    "text": "Tutti i miei glo boys hanno gas, gas, spingono il Benz"
+  },
+  {
+    "start": 65,
+    "end": 71,
+    "text": "Tutti 'sti fufu sono mad, mad 'cause I'm the man (E il cash va in banca a me)"
+  },
+  {
+    "start": 71,
+    "end": 74.5,
+    "text": "Non l'ho mai visto in giro, non so quello lì chi è"
+  },
+  {
+    "start": 74.5,
+    "end": 78,
+    "text": "E non sono DJ Khaled, sì, ma bitch, we the best"
+  },
+  {
+    "start": 78,
+    "end": 82.5,
+    "text": "Voglio ancora più cheese, *cash*, cura dallo stress"
+  },
+  {
+    "start": 82.5,
+    "end": 84,
+    "text": "E verso ancora"
+  },
+  {
+    "start": 84,
+    "end": 87.5,
+    "text": "*Alprazolam*, la mia vita è tuff, ne verso ancora"
+  },
+  {
+    "start": 87.5,
+    "end": 91,
+    "text": "Ho droppato cinque giorni fa e già ne vuoi ancora"
+  },
+  {
+    "start": 91,
+    "end": 94.5,
+    "text": "Tutto ciò che è regolare a me, giuro, mi annoia"
+  },
+  {
+    "start": 94.5,
+    "end": 98,
+    "text": "Se non alzo il cash, sto in paranoia e verso ancora"
+  },
+  {
+    "start": 98,
+    "end": 103.25,
+    "text": "*Alprazolam* (Alprazolam), A-A-A-Alprazolam (Alprazolam)"
+  },
+  {
+    "start": 103.25,
+    "end": 108.5,
+    "text": "A-A-A-A-Alprazolam (Alprazolam), A-A-A-A-Alprazolam (Alprazolam)"
+  },
+  {
+    "start": 108.5,
+    "end": 112,
+    "text": "*Alprazolam* (Alprazolam)"
+  },
+  {
+    "start": 112,
+    "end": 117,
+    "text": "*Alprazolam* (Alprazolam), A-A-A-Alprazolam (Alprazolam)"
+  },
+  {
+    "start": 117,
+    "end": 125,
+    "text": "A-A-A-A-Alprazolam, A-A-A-A-Alprazolam (Alprazolam)"
+  }
 ]

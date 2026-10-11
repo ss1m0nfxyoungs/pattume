@@ -6,7 +6,9 @@
     "dev": "remotion studio",
     "render": "remotion render src/index.ts Psychedelic out/video.mp4 --codec=h264 --crf=16",
     "render4k": "remotion render src/index.ts Psychedelic out/video-4k.mp4 --codec=h264 --crf=16 --scale=2",
-    "lyrics": "node scripts/whisper-to-lyrics.mjs"
+    "lyrics": "node scripts/whisper-to-lyrics.mjs",
+    "lyrics-txt": "node scripts/txt-to-lyrics.mjs",
+    "lyrics-timed": "node scripts/apply-timings.mjs"
   },
   "dependencies": {
     "@remotion/cli": "^4.0.0",
