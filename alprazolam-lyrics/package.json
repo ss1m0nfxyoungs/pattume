@@ -1,0 +1,22 @@
+{
+  "name": "psychedelic-lyrics",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render src/index.ts Psychedelic out/video.mp4 --codec=h264 --crf=16",
+    "render4k": "remotion render src/index.ts Psychedelic out/video-4k.mp4 --codec=h264 --crf=16 --scale=2",
+    "lyrics": "node scripts/whisper-to-lyrics.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/media-utils": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "typescript": "^5.4.0"
+  }
+}
